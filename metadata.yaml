@@ -1,0 +1,34 @@
+_repo: Le-capitaine-Pamphile_18697
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas père, Alexandre
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18697'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Menageries -- Fiction'
+- !lcsh 'Ship captains -- Fiction'
+title: Le capitaine Pamphile
+url: http://www.gutenberg.org/ebooks/18697
